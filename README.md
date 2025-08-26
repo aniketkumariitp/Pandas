@@ -1,3 +1,4 @@
+<img width="740" height="200" alt="Image" src="https://github.com/user-attachments/assets/65435600-ecab-4a71-93a0-f235379b0fa9" />
 
 # 🐼✨ Pandas Capstone Projects  
 
